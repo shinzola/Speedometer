@@ -2,6 +2,9 @@
 
 Um aplicativo Flutter para monitoramento de velocidade e distância em tempo real, desenvolvido como projeto acadêmico. O app utiliza os dados do GPS do dispositivo para fornecer medições precisas e conta com um modo HUD (Head-Up Display) para visualização no para-brisa de um veículo.
 
+<img width="399" height="693" alt="image" src="https://github.com/user-attachments/assets/3940e184-6b37-4a02-8d3e-1c35c9479940" />
+
+
 ## ✨ Funcionalidades
 
 Velocímetro em Tempo Real: Exibe a velocidade atual do dispositivo em km/h.
